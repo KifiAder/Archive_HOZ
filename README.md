@@ -92,6 +92,16 @@ Cringe — отдельная зона культурного ущерба.
 более удобная навигация по категориям.
 
 ---
+<div align="center">
+
+## Коллажи
+
+<img src="./Preview_Arts.png" alt="Превью Arts" width="420">
+<img src="./Preview_Zabor.png" alt="Превью работ для Zabor'a" width="420">
+<img src="./Preview_Doodles.png" alt="Превью Doodles" width="420">
+<img src="./Preview_Cringe.png" alt="Превью Cringe" width="420">
+
+</div>
 
 <div align="center">
 
